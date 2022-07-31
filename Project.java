@@ -8,7 +8,7 @@ public class Project {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		int operation = 0;
-		
+	        System.out.println("Welcome to Lockers Pvt.Ltd!!!!! \n \n");
 		Scanner sc=new Scanner(System.in);
 		
 		
